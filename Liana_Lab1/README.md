@@ -18,3 +18,4 @@ This is a simple C++ console application created for Git Lab 1.
 ## Features:
 - void pass_fail_check(): No Parameters, returns Nothing
 - void grade_calculator(): Function called to check calculate your grade
+- void myFavorite_number(): Function shows you favorite number
