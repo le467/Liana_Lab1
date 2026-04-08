@@ -6,8 +6,9 @@ using namespace std;
 int main()
 {
     cout << "Hello from Liana. This is my first Git commit.\n";
-    cout << "Git makes collaboration easy! " << endl;
+    cout << "Git makes collaboration easy!\n ";
     cout << "Changes made by Tyler Wolfe.\n";
+    cout << "Lab 1 completed on April 4, 2026!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
