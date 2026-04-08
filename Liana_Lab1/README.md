@@ -11,3 +11,6 @@ This is a simple C++ console application created for Git Lab 1.
 ## Team Members
 - Liana Dixon
 -  Tyler Wolfe
+
+## Changes Made by Liana:
+- Added greeting feature
