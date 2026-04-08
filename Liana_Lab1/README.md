@@ -14,3 +14,6 @@ This is a simple C++ console application created for Git Lab 1.
 
 ## Changes Made by Liana:
 - Added greeting feature
+
+## Feature
+- void grade_calculator(): Function called to check calculate your grade

@@ -3,6 +3,12 @@
 #include <iostream>
 using namespace std;
 
+// Liana: Function called to calculate your grade
+void grade_calculator()
+{
+    cout << "Function called to calculate your grade.\n";
+}
+
 int main()
 {
     cout << "Hello from Liana. This is my first Git commit.\n";
@@ -11,6 +17,8 @@ int main()
     cout << "Lab 1 completed on April 4, 2026!\n";
     cout << "Liana: Branching is awesome!" << endl;
     cout << "Student ID: 786902 | Name: Liana Dixon" << endl;
+
+    grade_calculator();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
