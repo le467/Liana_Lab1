@@ -11,8 +11,7 @@ int main()
     cout << "Lab 1 completed on April 4, 2026!\n";
     cout << "Liana: Branching is awesome!" << endl;
     cout << "Student ID: 786902 | Name: Liana Dixon" << endl;
-    cout << "Typo Line" << endl;
- }
+}
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
