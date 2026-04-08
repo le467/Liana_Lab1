@@ -13,6 +13,13 @@ void grade_calculator()
     cout << "Function called to calculate your grade.\n";
 }
 
+//My favorite number function- added by Liana
+void myFavoriteNumber()
+{
+    int fav = 67;
+    cout << "My favorite number is: " << fav << endl;
+}
+
 int main()
 {
     cout << "Hello from Liana. This is my first Git commit.\n";
@@ -23,6 +30,7 @@ int main()
     cout << "Student ID: 786902 | Name: Liana Dixon" << endl;
     pass_fail_check();
     grade_calculator();
+    myFavoriteNumber();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
