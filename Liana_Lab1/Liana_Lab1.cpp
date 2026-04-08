@@ -7,6 +7,11 @@ void pass_fail_check()
 {
     cout << "'pass_fail_check' function called.\n";
 }
+// Liana: Function called to calculate your grade
+void grade_calculator()
+{
+    cout << "Function called to calculate your grade.\n";
+}
 
 int main()
 {
@@ -17,6 +22,7 @@ int main()
     cout << "Liana: Branching is awesome!" << endl;
     cout << "Student ID: 786902 | Name: Liana Dixon" << endl;
     pass_fail_check();
+    grade_calculator();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
