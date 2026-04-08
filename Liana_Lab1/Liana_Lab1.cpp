@@ -3,6 +3,10 @@
 #include <iostream>
 using namespace std;
 
+void pass_fail_check()
+{
+    cout << "'pass_fail_check' function called.\n";
+}
 // Liana: Function called to calculate your grade
 void grade_calculator()
 {
@@ -17,7 +21,7 @@ int main()
     cout << "Lab 1 completed on April 4, 2026!\n";
     cout << "Liana: Branching is awesome!" << endl;
     cout << "Student ID: 786902 | Name: Liana Dixon" << endl;
-
+    pass_fail_check();
     grade_calculator();
 }
 
